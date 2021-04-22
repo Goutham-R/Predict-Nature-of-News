@@ -9,4 +9,4 @@ Required Dependencies:
 * NLTK   : `pip install nltk`
 * Sci-Kit Learn   : `pip install sklearn`
 
-Dataset downloaded from https://www.kaggle.com/srinivasav22/advanced-predict-news-category-hackthon
+Dataset downloaded from https://www.kaggle.com/rohan9889/predict-news-category
